@@ -1,7 +1,0 @@
-C:\Users\Lenovo\source\repos\DataEncryptionModule\DataEncryptionModule\bin\Debug\DataEncryptionModule.exe.config
-C:\Users\Lenovo\source\repos\DataEncryptionModule\DataEncryptionModule\bin\Debug\DataEncryptionModule.exe
-C:\Users\Lenovo\source\repos\DataEncryptionModule\DataEncryptionModule\bin\Debug\DataEncryptionModule.pdb
-C:\Users\Lenovo\source\repos\DataEncryptionModule\DataEncryptionModule\obj\Debug\DataEncryptionModule.csproj.AssemblyReference.cache
-C:\Users\Lenovo\source\repos\DataEncryptionModule\DataEncryptionModule\obj\Debug\DataEncryptionModule.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\DataEncryptionModule\DataEncryptionModule\obj\Debug\DataEncryptionModule.exe
-C:\Users\Lenovo\source\repos\DataEncryptionModule\DataEncryptionModule\obj\Debug\DataEncryptionModule.pdb
