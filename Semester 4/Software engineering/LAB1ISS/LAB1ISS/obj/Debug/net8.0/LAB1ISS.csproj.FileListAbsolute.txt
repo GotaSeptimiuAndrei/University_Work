@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\bin\Debug\net8.0\LAB1ISS.exe
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\bin\Debug\net8.0\LAB1ISS.deps.json
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\bin\Debug\net8.0\LAB1ISS.runtimeconfig.json
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\bin\Debug\net8.0\LAB1ISS.dll
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\bin\Debug\net8.0\LAB1ISS.pdb
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\obj\Debug\net8.0\LAB1ISS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\obj\Debug\net8.0\LAB1ISS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\obj\Debug\net8.0\LAB1ISS.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\obj\Debug\net8.0\LAB1ISS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\obj\Debug\net8.0\LAB1ISS.dll
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\obj\Debug\net8.0\refint\LAB1ISS.dll
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\obj\Debug\net8.0\LAB1ISS.pdb
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\obj\Debug\net8.0\LAB1ISS.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\LAB1ISS\LAB1ISS\obj\Debug\net8.0\ref\LAB1ISS.dll

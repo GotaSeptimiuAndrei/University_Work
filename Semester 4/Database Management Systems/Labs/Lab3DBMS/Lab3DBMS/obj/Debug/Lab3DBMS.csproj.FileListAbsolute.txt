@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\bin\Debug\Lab3DBMS.exe.config
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\bin\Debug\Lab3DBMS.exe
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\bin\Debug\Lab3DBMS.pdb
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\obj\Debug\Lab3DBMS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\obj\Debug\Lab3DBMS.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\obj\Debug\Lab3DBMS.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\obj\Debug\Lab3DBMS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\obj\Debug\Lab3DBMS.exe
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\obj\Debug\Lab3DBMS.pdb
+C:\Users\Lenovo\source\repos\Lab3DBMS\Lab3DBMS\obj\Debug\Lab3DBMS.Form1.resources

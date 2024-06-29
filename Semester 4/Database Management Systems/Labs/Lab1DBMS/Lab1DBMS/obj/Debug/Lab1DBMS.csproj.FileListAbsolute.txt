@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Lab1DBMS\Lab1DBMS\bin\Debug\Lab1DBMS.exe.config
+C:\Users\Lenovo\source\repos\Lab1DBMS\Lab1DBMS\bin\Debug\Lab1DBMS.exe
+C:\Users\Lenovo\source\repos\Lab1DBMS\Lab1DBMS\bin\Debug\Lab1DBMS.pdb
+C:\Users\Lenovo\source\repos\Lab1DBMS\Lab1DBMS\obj\Debug\Lab1DBMS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab1DBMS\Lab1DBMS\obj\Debug\Lab1DBMS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab1DBMS\Lab1DBMS\obj\Debug\Lab1DBMS.exe
+C:\Users\Lenovo\source\repos\Lab1DBMS\Lab1DBMS\obj\Debug\Lab1DBMS.pdb

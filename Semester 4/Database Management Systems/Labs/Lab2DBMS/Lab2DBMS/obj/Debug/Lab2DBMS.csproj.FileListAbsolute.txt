@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\bin\Debug\Lab2DBMS.exe.config
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\bin\Debug\Lab2DBMS.exe
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\bin\Debug\Lab2DBMS.pdb
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\obj\Debug\Lab2DBMS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\obj\Debug\Lab2DBMS.Form1.resources
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\obj\Debug\Lab2DBMS.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\obj\Debug\Lab2DBMS.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\obj\Debug\Lab2DBMS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\obj\Debug\Lab2DBMS.exe
+C:\Users\Lenovo\source\repos\Lab2DBMS\Lab2DBMS\obj\Debug\Lab2DBMS.pdb
