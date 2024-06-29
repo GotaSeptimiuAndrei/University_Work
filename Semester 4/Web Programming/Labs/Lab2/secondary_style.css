@@ -1,0 +1,53 @@
+.vertical-nav {
+    height: auto;
+    width: 100%;
+}
+
+.vertical-nav li {
+    height: 25px;
+    margin: 0;
+    padding: 5px ;
+    background-color: #e6b844;
+    border: none;
+    text-align: center;
+    float: left;
+    clear: both;
+    width: 100px;
+    list-style-type: none;
+}
+
+.vertical-nav li:hover {
+    background-color: #656464;
+}
+
+.vertical-nav li:hover span {
+    color: #30c3ec;
+}
+
+.vertical-nav li span {
+    color: #000000;
+}
+
+.vertical-nav li ul {
+    display: none;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.vertical-nav li:hover .sub-menu {
+    position: relative;
+    top: -27.5px;
+    display: block;
+}
+
+.sub-menu li {
+    position: relative;
+    top: 0;
+    left: 100%;
+    width: 100%;
+    min-width: 180px;
+}
+
+.sub-menu li span {
+    padding: 10px;
+}

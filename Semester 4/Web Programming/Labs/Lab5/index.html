@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>County & City Selection</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <label>Select County:</label>
+            <select id="county" onchange="updateCities()">
+                <option value="">Select County</option>
+                <option value="Mures">Mures</option>
+                <option value="Cluj">Cluj</option>
+                <option value="Timis">Timis</option>
+            </select>
+
+            <label>Select City:</label>
+            <select id="city">
+                <option value="">Select City</option>
+            </select>
+            <script src="updateCities.js"></script>
+        </div>
+    </body>
+</html>

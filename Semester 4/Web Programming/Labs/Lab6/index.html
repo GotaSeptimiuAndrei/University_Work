@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="">
+    <head>
+        <title>Lab 6</title>
+        <style>
+            #overlay {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background-color: rgba(0,0,0,0.5);
+                z-index: 2;
+            }
+
+            #modal {
+                display: none;
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                z-index: 3;
+                background-color: #fff;
+                padding: 20px;
+                width: 300px;
+                border-radius: 8px;
+            }
+        </style>
+    </head>
+    <body>
+        <form id="mainForm">
+            <input type="text" id="input1" placeholder="Input 1">
+            <input type="text" id="input2" placeholder="Input 2">
+            <input type="text" id="input3" placeholder="Input 3">
+            <input type="text" id="input4" placeholder="Input 4">
+            <input type="text" id="input5" placeholder="Input 5">
+            <button type="button" id="openModal">Open Modal</button>
+            <textarea id="output"></textarea>
+        </form>
+
+        <div id="modal">
+            <input type="text" id="modalInput1" placeholder="Modal Input 1">
+            <input type="text" id="modalInput2" placeholder="Modal Input 2">
+            <input type="text" id="modalInput3" placeholder="Modal Input 3">
+            <input type="text" id="modalInput4" placeholder="Modal Input 4">
+            <button type="button" id="closeModal">Close Modal</button>
+        </div>
+
+        <div id="overlay"></div>
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
