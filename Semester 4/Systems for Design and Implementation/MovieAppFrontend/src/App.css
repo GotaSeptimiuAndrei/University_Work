@@ -1,0 +1,14 @@
+#root {
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.card {
+    padding: 2em;
+    display: flex;
+}
+
+.read-the-docs {
+    color: #888;
+}

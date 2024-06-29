@@ -1,0 +1,21 @@
+.footer {
+    width: 100%;
+    font-weight: 600;
+    margin: 0;
+    align-self: flex-start;
+    border-top: 1px solid #000000;
+    background: #ffcc00;
+}
+
+.footer-text {
+    padding: 10px;
+    line-height: 1;
+    color: black;
+}
+
+#footer-text {
+    font-weight: bold;
+    font-size: 14pt;
+    color: black;
+    text-align: left;
+}
