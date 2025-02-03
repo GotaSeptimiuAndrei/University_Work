@@ -1,0 +1,14 @@
+-- Base 10 to Base 2 Conversion --
+n (int), remainder (int), binary (int), factor (int)
+print("Enter a number in base 10: ")
+read(n)
+binary = 0
+factor = 1  
+while n > 0 {
+    remainder = n % 2;  
+    binary = binary + remainder * factor;  
+    n = n / 2;  
+    factor = factor * 10;  
+}
+print("The binary equivalent is: ")
+print(binary)

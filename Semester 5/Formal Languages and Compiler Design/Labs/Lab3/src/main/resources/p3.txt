@@ -1,0 +1,9 @@
+prog {
+n (int), remainder (int), binary (int), factor (int)
+print("Enter a number in base 10: ")
+read(n)
+binary = 0
+factor = 1
+print("The binary equivalent is: ")
+print(binary)
+}

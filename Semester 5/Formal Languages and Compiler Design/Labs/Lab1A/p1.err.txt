@@ -1,0 +1,13 @@
+-- Min of 3 numbers --
+a (int), 2b (int), c (int) -- a variable name should start with _ or a letter
+read(a); -- lines of code don't use ';'
+read(b)
+read(c)
+smallest (int) = a
+if smallest > b { 
+	smallest = b
+}
+if smallest > c {
+	smallest = c
+}
+print(smallest)
