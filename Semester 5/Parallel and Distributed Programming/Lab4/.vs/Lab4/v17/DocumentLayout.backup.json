@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|c:\\ubb sem 5\\parallel and distributed programming\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|c:\\ubb sem 5\\parallel and distributed programming\\lab4\\implementation\\directcallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|solutionrelative:implementation\\directcallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|c:\\ubb sem 5\\parallel and distributed programming\\lab4\\implementation\\taskmechanism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|solutionrelative:implementation\\taskmechanism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|c:\\ubb sem 5\\parallel and distributed programming\\lab4\\model\\stateobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|solutionrelative:model\\stateobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|c:\\ubb sem 5\\parallel and distributed programming\\lab4\\utils\\httputils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|solutionrelative:utils\\httputils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|c:\\ubb sem 5\\parallel and distributed programming\\lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C7D6687-0883-42DA-8E26-8B8B2365C668}|Lab4.csproj|solutionrelative:lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskMechanism.cs",
+              "DocumentMoniker": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Implementation\\TaskMechanism.cs",
+              "RelativeDocumentMoniker": "Implementation\\TaskMechanism.cs",
+              "ToolTip": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Implementation\\TaskMechanism.cs",
+              "RelativeToolTip": "Implementation\\TaskMechanism.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:42:59.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectCallback.cs",
+              "DocumentMoniker": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Implementation\\DirectCallback.cs",
+              "RelativeDocumentMoniker": "Implementation\\DirectCallback.cs",
+              "ToolTip": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Implementation\\DirectCallback.cs",
+              "RelativeToolTip": "Implementation\\DirectCallback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:42:40.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab4.csproj",
+              "DocumentMoniker": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Lab4.csproj",
+              "RelativeDocumentMoniker": "Lab4.csproj",
+              "ToolTip": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Lab4.csproj",
+              "RelativeToolTip": "Lab4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T16:41:12.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpUtils.cs",
+              "DocumentMoniker": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Utils\\HttpUtils.cs",
+              "RelativeDocumentMoniker": "Utils\\HttpUtils.cs",
+              "ToolTip": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Utils\\HttpUtils.cs",
+              "RelativeToolTip": "Utils\\HttpUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:40:14.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateObject.cs",
+              "DocumentMoniker": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Model\\StateObject.cs",
+              "RelativeDocumentMoniker": "Model\\StateObject.cs",
+              "ToolTip": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Model\\StateObject.cs",
+              "RelativeToolTip": "Model\\StateObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:37:28.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\UBB Sem 5\\Parallel and Distributed Programming\\Lab4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:33:45.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

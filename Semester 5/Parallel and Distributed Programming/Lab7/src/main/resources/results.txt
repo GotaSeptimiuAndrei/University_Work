@@ -1,0 +1,7 @@
+karatsuba 100001
+10 processes
+Execution time: 84.4801323 ms
+
+regular 100001
+10 processes
+Execution time: 38.9466046
